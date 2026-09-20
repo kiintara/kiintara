@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4cd137&height=200&section=header&text=Halo,%20Saya%20Kintara&fontSize=40&fontColor=FBB1E0" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4cd137&height=200&section=header&text=Halo,%20Saya%20Kintara&fontSize=40&fontColor=E9D1FF" alt="banner" />
 </p>
 
 <h1 align="center">Dewa Ayu Putu Kintara</h1>
@@ -9,7 +9,7 @@
 
 ### Details / About Me
 
-- **Pekerjaan Saat ini**: Mahasiswa di Binus University
+- **Pekerjaan Saat ini**: Mahasiswa di BINUS@Malang
 - **Sedang mendalami**: C Language
 - **Target**: Menjadi Frontend developer
 - **Fun fact**: Curious and love to learn
