@@ -2,8 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=4cd137&height=200&section=header&text=Halo,%20Saya%20Kintara&fontSize=40&fontColor=ffffff" alt="banner" />
 </p>
 
-<h1 align="center">[Kintara]</h1>
-<p align="center">[Peserta Workshop Git & GitHub | Junior Frontend Enthusiast]</p>
+<h1 align="center">Kintara</h1>
+<p align="center">Peserta Workshop Git & GitHub | Junior Frontend Enthusiast</p>
 
 ---
 
